@@ -1,5 +1,5 @@
-# go-blockchain (ongoing)
+# go-blockchain
 
 This is a simple blockchain protocol implementation using Golang.
 
-Documentation and implementation will be updated
+The implementation consists of creating blocks, calculating proof-of-work, and the CLI command-line interface.
